@@ -30,12 +30,12 @@ Utilizar esse método para todas as liguagens, somente alterando para o nome da 
 
 ## Formatação  de texto e ALERTS
 
-# Nota (Note): Informações úteis que os utilizadores devem saber, mesmo ao ler o conteúdo rapidamente.
+Nota (Note): Informações úteis que os utilizadores devem saber, mesmo ao ler o conteúdo rapidamente.
 
-# Dica (Tip): Conselhos úteis para fazer as coisas melhor ou mais facilmente.
+Dica (Tip): Conselhos úteis para fazer as coisas melhor ou mais facilmente.
 
-# Importante (Important): Informações cruciais que os utilizadores precisam de saber para atingir o seu objetivo.
+Importante (Important): Informações cruciais que os utilizadores precisam de saber para atingir o seu objetivo.
 
-# Aviso (Warning): Informações urgentes que necessitam da atenção imediata do utilizador para evitar problemas.
+Aviso (Warning): Informações urgentes que necessitam da atenção imediata do utilizador para evitar problemas.
 
-# Cuidado (Caution): Alerta sobre riscos ou resultados negativos de certas ações.
+Cuidado (Caution): Alerta sobre riscos ou resultados negativos de certas ações.
